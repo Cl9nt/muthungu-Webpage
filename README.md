@@ -2,6 +2,13 @@
 
 I have created a HTML, CSS and Javascript Website.
 
+# Setup / Installation process
+
+- Clone the repository in your computer,
+- Open the " index.html" file in your browser as the Home page.
+
+
+
 It has 4 links on the homepage :
 
   # Profile,
