@@ -4,8 +4,8 @@ I have created a HTML, CSS and Javascript Website.
 
 # Setup / Installation process
 
-- Clone the repository in your computer,
-- Open the " index.html" file in your browser as the Home page.
+ Clone the repository in your computer,
+ Open the " index.html" file in your browser as the Home page.
 
 
 
