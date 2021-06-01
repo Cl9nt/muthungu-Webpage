@@ -11,7 +11,7 @@ I have created a HTML, CSS and Javascript Website.
 
 It has 4 links on the homepage :
 
-  # Profile,
+  # Profile
    
    A description of Programmer.
 
